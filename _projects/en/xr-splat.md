@@ -53,7 +53,7 @@ _Global localization 40/40 across the full 28.8 m map_
 
 `3D Gaussian Splatting` · `gsplat` · `ORB-SLAM3` · `OpenSfM` · `MVS` · `RealSense D455` · `Insta360` · `PyTorch` · `CUDA` · `WebGL`
 
-**Code:** [github.com/ingon1026/xr-splat](https://github.com/ingon1026/xr-splat) · [github.com/ingon1026/360-gaussian-splatting](https://github.com/ingon1026/360-gaussian-splatting) (fork contribution) · **Demo:** [HF xr-splat-demo](https://huggingface.co/spaces/ingon1/xr-splat-demo) · [HF 360gs-walkthroughs](https://huggingface.co/spaces/ingon1/360gs-walkthroughs)
+**Code:** [github.com/ingon-kim/xr-splat](https://github.com/ingon-kim/xr-splat) · [github.com/ingon-kim/360-gaussian-splatting](https://github.com/ingon-kim/360-gaussian-splatting) (fork contribution) · **Demo:** [HF xr-splat-demo](https://huggingface.co/spaces/ingon1/xr-splat-demo) · [HF 360gs-walkthroughs](https://huggingface.co/spaces/ingon1/360gs-walkthroughs)
 
 <style>
   .post img {

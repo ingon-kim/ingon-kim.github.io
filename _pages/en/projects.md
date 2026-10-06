@@ -17,7 +17,7 @@ nav: false
       <h3><a href="/en/projects/pose-anything/">Zero-Shot Object Recognition &amp; 3D Pose Estimation</a></h3>
       <p class="prj-desc">Detect and track arbitrary objects from a text prompt, publish RGB-D 3D pose with confidence over ROS2 — no retraining, no CAD, 9–13 FPS.</p>
       <p class="prj-links">
-        <a href="https://github.com/ingon1026/pose-anything"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/pose-anything"><i class="fa-brands fa-github"></i> Source</a>
         <a href="https://hub.docker.com/r/ingon1026/pose-anything"><i class="fa-brands fa-docker"></i> Docker</a>
         <a href="/en/projects/pose-anything/">Details →</a>
       </p>
@@ -34,7 +34,7 @@ nav: false
       <p class="prj-desc">Space assets and indoor localization in one coordinate frame, via 360° video and RGB-D SLAM — 123 FPS rendering, 100% global relocalization at 62.8 FPS.</p>
       <p class="prj-links">
         <a class="prj-btn" href="https://huggingface.co/spaces/ingon1/xr-splat-demo">🤗 Live demo</a>
-        <a href="https://github.com/ingon1026/xr-splat"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/xr-splat"><i class="fa-brands fa-github"></i> Source</a>
         <a href="/en/projects/xr-splat/">Details →</a>
       </p>
       <p class="prj-tags">3DGS · ORB-SLAM3 · OpenSfM · Insta360 · WebGL</p>
@@ -50,7 +50,7 @@ nav: false
       <p class="prj-desc">Auto-rig hand drawings and drive them with the user's body motion, facial expressions, and speech in real time — talking video generation 4.8→2.1 s.</p>
       <p class="prj-links">
         <a class="prj-btn" href="https://ingon1-drawface-live.static.hf.space">🤗 Live demo</a>
-        <a href="https://github.com/ingon1026/drawface-live"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/drawface-live"><i class="fa-brands fa-github"></i> Source</a>
         <a href="/en/projects/drawing-character/">Details →</a>
       </p>
       <p class="prj-tags">MediaPipe · ARKit 52ch · LivePortrait · TensorRT · WebGL</p>

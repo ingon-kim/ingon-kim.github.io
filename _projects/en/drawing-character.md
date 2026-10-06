@@ -47,7 +47,7 @@ _ARKit 52-channel 3D expression mirroring_
 
 `MediaPipe` · `AnimatedDrawings` · `BVH` · `ARAP` · `ARKit 52ch` · `WebGL` · `LivePortrait` · `TensorRT` · `JoyVASA` · `EXAONE 3.5` · `edge-TTS` · `FastAPI`
 
-**Code:** [github.com/ingon1026/drawface-live](https://github.com/ingon1026/drawface-live) · [github.com/ingon1026/talking-drawing-avatar](https://github.com/ingon1026/talking-drawing-avatar) · **Demo:** [HF DrawFace Live](https://ingon1-drawface-live.static.hf.space)
+**Code:** [github.com/ingon-kim/drawface-live](https://github.com/ingon-kim/drawface-live) · [github.com/ingon-kim/talking-drawing-avatar](https://github.com/ingon-kim/talking-drawing-avatar) · **Demo:** [HF DrawFace Live](https://ingon1-drawface-live.static.hf.space)
 
 <style>
   .post img {

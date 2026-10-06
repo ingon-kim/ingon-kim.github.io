@@ -18,7 +18,7 @@ nav_order: 2
       <h3><a href="/projects/pose-anything/">제로샷 객체 인식·3D Pose 추정 시스템</a></h3>
       <p class="prj-desc">텍스트 프롬프트만으로 임의 물체를 인식·추적하고 RGB-D로 3D 자세·신뢰도를 ROS2로 발행 — 재학습 없음, CAD 없음, 9~13 FPS.</p>
       <p class="prj-links">
-        <a href="https://github.com/ingon1026/pose-anything"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/pose-anything"><i class="fa-brands fa-github"></i> Source</a>
         <a href="https://hub.docker.com/r/ingon1026/pose-anything"><i class="fa-brands fa-docker"></i> Docker</a>
         <a href="/projects/pose-anything/">Details →</a>
       </p>
@@ -35,7 +35,7 @@ nav_order: 2
       <p class="prj-desc">360° 영상과 RGB-D SLAM 두 접근으로 공간 자산과 실내 위치추정을 한 좌표계에서 — 렌더 123 FPS, 전역 위치추정 100%·62.8 FPS.</p>
       <p class="prj-links">
         <a class="prj-btn" href="https://huggingface.co/spaces/ingon1/xr-splat-demo">🤗 Live demo</a>
-        <a href="https://github.com/ingon1026/xr-splat"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/xr-splat"><i class="fa-brands fa-github"></i> Source</a>
         <a href="/projects/xr-splat/">Details →</a>
       </p>
       <p class="prj-tags">3DGS · ORB-SLAM3 · OpenSfM · Insta360 · WebGL</p>
@@ -51,7 +51,7 @@ nav_order: 2
       <p class="prj-desc">손그림을 자동 인식·리깅하고 사용자의 몸동작·표정·음성을 실시간으로 입히는 캐릭터 기술 — 발화 영상 생성 4.8→2.1초.</p>
       <p class="prj-links">
         <a class="prj-btn" href="https://ingon1-drawface-live.static.hf.space">🤗 Live demo</a>
-        <a href="https://github.com/ingon1026/drawface-live"><i class="fa-brands fa-github"></i> Source</a>
+        <a href="https://github.com/ingon-kim/drawface-live"><i class="fa-brands fa-github"></i> Source</a>
         <a href="/projects/drawing-character/">Details →</a>
       </p>
       <p class="prj-tags">MediaPipe · ARKit 52ch · LivePortrait · TensorRT · WebGL</p>

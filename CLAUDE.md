@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-김인곤 개인 포트폴리오 사이트(https://ingon1026.github.io). al-folio v1.x 스타터를 fork한 **사용자 사이트**예요.
+김인곤 개인 포트폴리오 사이트(https://ingon-kim.github.io). al-folio v1.x 스타터를 fork한 **사용자 사이트**예요.
 
 ## 주의: al-folio 원본과 다른 점
 

@@ -43,7 +43,7 @@ _Isaac Sim 컨베이어 연동_
 
 `SAM3` · `ROS2 Jazzy` · `Open3D` · `RealSense D455` · `RGB-D` · `Kalman filter` · `RViz` · `Isaac Sim` · `Docker`
 
-**Code:** [github.com/ingon1026/pose-anything](https://github.com/ingon1026/pose-anything) (MIT) · **Docker:** [hub.docker.com/r/ingon1026/pose-anything](https://hub.docker.com/r/ingon1026/pose-anything)
+**Code:** [github.com/ingon-kim/pose-anything](https://github.com/ingon-kim/pose-anything) (MIT) · **Docker:** [hub.docker.com/r/ingon1026/pose-anything](https://hub.docker.com/r/ingon1026/pose-anything)
 
 <style>
   .post img {
