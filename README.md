@@ -1,4 +1,4 @@
-**My site → [ingon-kim.github.io](https://ingon-kim.github.io)**
+**[ingon-kim.github.io](https://ingon-kim.github.io)**
 
 # al-folio
 
