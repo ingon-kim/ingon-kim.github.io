@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Kim In Gon</title>
+    <meta name="author" content="Kim In Gon">
+    <meta name="description" content="Kim In Gon — Ph.D. student at the RoMA Lab, Kyungpook National University, working on Spatial AI for robots.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <style>
+      /* wide two-panel thumbnails instead of 160px squares */
+      .paper { grid-template-columns: 342px minmax(0, 1fr); }
+      .bio-photo img { aspect-ratio: 1; object-position: center 15%; }
+      @media (max-width: 640px) {
+        .paper { grid-template-columns: 1fr; }
+        .paper-media { padding: 12px 16px 0; }
+        .paper-info { padding: 8px 16px 12px; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <main class="page">
+      <header class="bio">
+        <div class="bio-text">
+          <h1 class="name">Kim In Gon</h1>
+          <p>
+            I am a Ph.D. student at the <a href="https://romalab.org/">RoMA Lab</a>, Kyungpook National University, advised by Prof. <a href="https://romalab.org/people/young-sik-shin/">Young-Sik Shin</a>.
+            My research focuses on robot perception and SLAM for Spatial AI.
+          </p>
+          <p>
+            Before starting my Ph.D., I received my M.S. from Kumoh National Institute of Technology, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=c8JDiHYAAAAJ">Soo Young Shin</a> in the <a href="https://wens.kumoh.ac.kr/home">WENS Lab</a>.
+          </p>
+          <p class="bio-links">
+            <a href="mailto:ingon.k2@gmail.com">Email</a> &nbsp;/&nbsp;
+            <a href="#">Blog</a> &nbsp;/&nbsp;
+            <a href="https://github.com/ingon-kim">GitHub</a> &nbsp;/&nbsp;
+            <a href="data/KimInGon_CV.pdf">CV</a>
+          </p>
+        </div>
+        <div class="bio-photo">
+          <a href="images/KimInGon.jpg"><img src="images/KimInGon.jpg" alt="Kim In Gon" width="354" height="472"></a>
+        </div>
+      </header>
+
+      <section class="section-header">
+        <h2>Research</h2>
+      </section>
+
+      <section class="papers">
+      <article class="paper">
+        <div class="paper-media">
+          <img src="images/hybrid-llm-navigation.jpg" alt="Hybrid LLM Navigation System for Edge-Cloud Reasoning" width="620" height="306">
+        </div>
+        <div class="paper-info">
+          <span class="papertitle">Hybrid LLM Navigation System for Edge-Cloud Reasoning</span>
+          <div class="paper-authors"><strong>In Gon Kim</strong>, <a href="https://scholar.google.com/citations?user=c8JDiHYAAAAJ">Soo Young Shin</a></div>
+          <div class="paper-venue"><em>JKICS</em>, 2026</div>
+          <p class="paper-desc">An edge LLM handles most scenes, and a router calls a cloud LLM only when a scene requires semantic judgment. The hybrid system keeps reaching its goal in crowded scenes where standard Nav2 fails.</p>
+        </div>
+      </article>
+      <article class="paper">
+        <div class="paper-media">
+          <img src="images/mobilevit-traffic-violation.jpg" alt="A MobileViT-Based Detection System for Motorcycle Traffic Violations" width="620" height="306">
+        </div>
+        <div class="paper-info">
+          <span class="papertitle">A MobileViT-Based Detection System for Motorcycle Traffic Violations</span>
+          <div class="paper-authors"><strong>In Gon Kim</strong>, <a href="https://scholar.google.com/citations?user=c8JDiHYAAAAJ">Soo Young Shin</a></div>
+          <div class="paper-venue"><em>JKICS</em>, 2025</div>
+          <p class="paper-desc">YOLO detections are analyzed over time with MobileViT to recognize signal, centerline, and crosswalk violations in motorcycle dashcam video, running in real time on a Jetson Orin NX.</p>
+        </div>
+      </article>
+      </section>
+
+      <footer class="site-footer">
+        <p>
+          Website template from <a href="https://github.com/jonbarron/jonbarron.github.io">Jon Barron</a>.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
